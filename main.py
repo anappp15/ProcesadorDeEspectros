@@ -1,6 +1,6 @@
 import streamlit as st
 from tab_analisis import contenido as analisis_contenido
-from tab_calibration import contenido as calibracion_contenido
+from tab_calibracion import contenido as calibracion_contenido
 
 st.set_page_config(
     page_title="Sitio para analizar espectros a partir de imágenes",
