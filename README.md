@@ -11,5 +11,5 @@ Una aplicación web de Streamlit para procesar fotos provenientes de un espectr�
 ## Trabajo Futuro
 - Pestaña de calibración para establecer la escala correcta de número de onda (en lugar de valores de píxel)
 
-## Despliegue
-Esta aplicación está construida con [Streamlit](https://streamlit.io) y se actualiza automáticamente cuando se realizan cambios en el repositorio de GitHub vinculado.
+## Enlace Web
+Prueba la app en [Procesador de espectros web app](https://procesadordeespectros-zwxhms8dk7augmt7tbkm2u.streamlit.app/)
